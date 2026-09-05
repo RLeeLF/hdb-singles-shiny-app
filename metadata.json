@@ -1,0 +1,6 @@
+{
+  "name": "HDB Housing Strategy Calculator for Singles Age 35",
+  "description": "Empirical 5-year forecasting and cash flow feasibility mapping across multiple HDB housing configurations, comparing BTO, Resale, and Renting with MAS MSR/TDSR compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
